@@ -1,3 +1,5 @@
-# dcc97.github.io
+theme: jekyll-theme-minimal
+
+# DEVI CHAITANYA CHHATRE
 
 # WELCOME TO DEVI'S PORTFOLIO
